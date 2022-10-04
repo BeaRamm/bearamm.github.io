@@ -2,96 +2,200 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Beatrice Ramm
+    - name: Current position
+      value: Associate Research Scholar and CPBF Fellow, Princeton University, Princeton, USA
     - name: Languages
-      value: English, German
+      value: English, German, Spanish, French, Portuguese
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Biochemistry
+      institution: Ludwig-Maximilians-Universität München, Munich, Germany <br> <br> Dissertation:<i> Self-Organization and Molecular Transport by a Biological Reaction-Diffusion System </i>
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Research in the Department of Cellular and Molecular Biophysics, Max-Planck-Institute of Biochemistry
+        - Graduate School of Quantitative Biology Munich 
+    - title: Master of Science in Biochemistry
+      institution: "Technical University of Munich, Munich, Germany <br> <br> Master's Thesis: <i>Observation, quantitation and application of contact-dependent growth inhibition for controlling cell growth and patterning </i>"
+      year: 2015
       description:
-        - Description 1.
-        - Description 2.
+        - "Minors: Protein Chemistry, Biophysics"
+        - Research for Master's Thesis conducted with Drew Endy, Bioengineering Department, Stanford University, Stanford, USA    
+        - Semester abroad at the Universidad Austral de Chile, Valdivia, Chile
+    - title: Bachelor of Science in Biochemistry
+      institution: "Technical University of Munich, Munich, Germany <br> <br> Bachelor's Thesis: <i>Force Spectroscopy of Vimentin Coiled-Coils</i>"
+      year: 2012
+      description:
+        - Research for Bachelor's Thesis conducted with Matthias Rief, Chair of Biophysics (E22),Technical University of Munich, Munich, Germany
 
-- title: Experience
+- title: Research experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Associate Research Scholar and CPBF Fellow
+      institution: "Princeton University, Princeton, USA <br> Advisor: Jared Toettcher"
+      year: since 2020
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Synthetic release and sensing circuits for multicellular pattern formation in Jared Toettcher's lab.
+        - In vitro reconstitution of a self-organizing kinase-phosphatase system in collaboration with Ting-Sung Hsieh and Vincent Tagliabracci (UT Southwestern)
+
+    - title: Postdoctoral Researcher
+      institution: "Department of Cellular and Molecular Biophysics, Max-Planck-Institute of Biochemistry, Martinsried, Germany <br> Advisor: Petra Schwille"
+      year: 2020
       description:
-        - Description 1.
-        - Description 2.
+        - Characterization of a biomolecular condensate in collaboration with Dominik Schumacher and Lotte Sogaard-Andersen (MPI for Terrestrial Microbiology)
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: PhD student
+      institution: "Department of Cellular and Molecular Biophysics, Max-Planck-Institute of Biochemistry, Martinsried, Germany <br> Advisor: Petra Schwille"
+      year: 2015-2020
       description:
+        - blubbi
+        - title: In vitro reconstitution of the MinDE system towards a more detailed and quantitative understanding of the self-organization mechanism employing
+          contents: 
+            - mutational analysis in vitro and in vivo (<i>E. coli,<\i>)
+            - microfabrication and micropatterning techniques
+            - quantitative fluorescence microscopy
+            - high-speed atomic force microscopy and mass-sensitive particle tracking
+        - title: Discovery, characterization and application of a non-specific, active directional transport by the MinDE system
+          contents: 
+            - In vitro reconstitution experiments to show that MinDE molecules can transport and position functionally unrelated molecules on membranes.
+            - Detailed characterization of the transport using highly controllable DNA origami as cargo molecule. In collaboration with theoretical physicists Andriy Goychuk and Erwin Frey we could pinpoint the underlying mechanism to be diffusiophoresis.
+            - Patterning of DNA origami molecules on membranes by MinDE
+    - title: Visiting Researcher
+      institution: "Bioengineering Department, Stanford University, Stanford, USA <br> Advisors: Drew Endy, Aymelt Itzen"
+      year: 2014-2015
+      description:
+        - Conducted experiments to investigate the role of contact-dependent growth inhibition in surface growth of <i>E. coli </i> and to evaluate its potential for synthetic biology applications such as contact-dependent patterning.
+    
+    - title: Intern in Research and Development
+      institution: BYK Chemie GmbH, Wesel, Germany
+      year: 2014
+      description:
+        - Screenining and characterization of enzymatic reactions for the production of additives
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Research Assistant
+      institution: "Chair of Biophysics (E22), Technical University of Munich, Munich, Germany <br> Advisors: Matthias Rief, Johannes Stigler"
+      year: 2013
+      description:
+        - Performed and analysed single-molecule force spectroscopy experiments by optical tweezers to assess the folding and stability of a fragment of the model intermediate filament protein vimentin following up on my Bachelor's thesis.
 
-- title: Open Source Projects
+    - title: Exchange student in Biochemistry
+      institution: Universidad Austral de Chile, Valdivia, Chile
+      year: 2012
+      description:
+        - Attended cell biology and programming lectures held in Spanish and was an intern in Maite Castro's lab. 
+
+    - title: Member of the iGEM team TU Munich    
+      institution: "Technical University Munich, Munich Germany <br> Advisor: Fritz Simmel"
+      year: 2011
+      description:
+        - Member of a student team working on <a href="https://2011.igem.org/Team:TU_Munich">EXPRESS3D</a> a bacterial 3D printer based on a light excitable logical AND-gate implemented in <i>E. coli </i>.
+
+
+- title: Scholarships and Awards
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - year: 2021
+      items: 
+        - Otto Hahn Medal awarded by the Max Planck Society
+        - PhD award (GBM Promotionspreis) awarded by the German Society for Biochemistry and Molecular Biology (GBM)
+        - Center for NanoScience (CeNS) LMU publication award in the category “Best interdisciplinary publication” for Ramm & Goychuk et al., 2021
+    - year: since 2020
+      items: 
+        - CPBF fellow
+    - year: 2020
+      items: 
+        - ORIGINS PhD Award awarded by the ORIGINS excellence cluster, Munich
+    - year: 2018
+      items: 
+        -  Poster Prize at the GRC Bacterial Cell Surfaces
+    - year: 2017
+      items: 
+        - Student Poster Prize at the 19th IUPAB and 11th EBSA congress 
+        - Presentation Award at the annual QBM retreat
+    - year: 2015-2018
+      items: 
+        - DFG PhD fellowship awarded by the Graduate School of Quantitative Biology Munich
+    - year: 2015
+      items: 
+        - Jürgen Manchot Studienpreis for excellence in academic studies awarded by the Technical University of Munich   
+    - year: 2012-2015
+      items: 
+        - Germany Scholarship (Deutschlandstipendium) awarded three consecutive times; National Scholarship program for highly motivated and excellent students financed by the German federal government and public-private partnership
 
-- title: Honors and Awards
+- title: Teaching and mentoring
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - year: 2022
       items:
-        - Description 1.
-        - Description 2.
+      - "Lecture “Short introduction to Biology” and instructor for an optics lab at the Physics of Life Summer School, Princeton University"
+    - year: 2017/2018
+      items:
+      - "Instructor for “Biochemistry 2”, a practical course for Chemistry bachelor students, Ludwig-Maximilians-Universität München"
+    - year: 2015-2020
+      items: 
+      - Mentoring of four students for their Master's Thesis/mandatory internships
+    - year: 2012
+      items: 
+      - "Teaching Assistant, Exercise to the lecture Physical Chemistry 2: Molecular Spectroscopy, Technical University of Munich"
 
-- title: Other Interests
-  type: list
+- title: Talks
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: 2021
+      items: 
+        - "GBM Awards Event, Virtual, Award Talk: Molecular transport by a biological reaction-diffusion system"
+        - "Award Ceremony at the Max Planck Society’s 2021 Annual Meeting, Virtual, Award Talk: Self-Organization and Molecular Transport by a Biological Reaction-Diffusion System"
+    - year: 2020
+      items: 
+        - "Virtual science meeting of the excellence cluster Origins, Virtual, Award Talk: Self-organization and molecular transport by a biochemical reaction-diffusion system"
+        - "Biophysical Society 64th Annual Meeting, San Diego, CA, USA, Selected Talk: Molecular transport and spatial sorting of membrane-bound DNA nanostructures by a biological reaction-diffusion system"
+    - year: 2019
+      items: 
+        - "13th annual qBio 2019, San Francisco, CA, USA, Selected Talk: Molecular Transport by a Propagating Diffusion Barrier"
+        - "Company of Biologists Workshop “In vitro reconstitution of the cell cytoskeleton”, Wiston House, UK, Selected Participant, Selected Talk: The MinDE system is a generic spatial cue for membrane protein distribution in vitro"
+    - year: 2019
+      items:
+        - "ACSB/EMBO 2018 Meeting, San Diego, CA, USA, Selected Talk: The MinDE system forms a propagating diffusion barrier that drives directed membrane protein transport"
+        - "GRS Bacterial Cell Surfaces, Mount Snow, VT, USA, Selected Talk: The MinDE system is a generic spatial cue for membrane protein distribution in vitro"
+
+- title: Conference poster/participation
+  type: time_table
+  contents:
+    - year: 2022
+      items: 
+        - "Lorentz Center Workshop “Reconstituting Biology: Charting the Way to Minimal Cells”, Leiden, Netherlands"
+        - "American Physical Society March Meeting, Chicago, IL, USA, Poster: Reconstituting the self-organization of a minimal kinase/phosphatase system in vitro"
+    - year: 2019
+      items:
+        - "DFG-funded TRR174 conference “Prokaryotic Cell Biology”, Bad Staffelstein, Germany, Poster: The MinDE system forms a propagating diffusion barrier that drives directed protein transport in vitro" 
+    - year: 2018
+      items:
+        - "GRC Bacterial Cell Surfaces, Mount Snow, VT, USA, Poster: The MinDE system is a generic spatial cue for membrane protein distribution in vitro"
+        - "EMBO | EMBL Symposium: Tissue Self-Organisation: Challenging the Systems: Orchestrating the ring cycle, Heidelberg, Germany, Poster: The MinDE system is a generic spatial cue for membrane protein distribution in vitro"
+        - "DFG-funded TRR174 conference “Spatiotemporal Organization of Bacterial Cells”, Marburg, Germany, Session Chair and Poster: The MinDE system is a generic spatial cue for membrane protein distribution in vitro"
+    - year: 2017
+      items:
+        - "19th IUPAB congress and 11th EBSA congress, Edinburgh, UK, Poster: HS-AFM imaging of the MinDE protein oscillator"
+    - year: 2016
+      items:
+        - "EMBO Workshop Bacterial Cell Division, Czech Republic, Poster: In vitro reconstitution of nucleoid-guided cargo positioning"   
+        - "The 51st Winter Seminar, Klosters, Switzerland, Poster: In vitro reconstitution of the E. coli Min system in 3D confined environments" 
+
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items: 
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
+
+#- title: Other Interests
+#  type: list
+#  contents:
+#    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
