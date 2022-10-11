@@ -50,23 +50,25 @@
       institution: "Department of Cellular and Molecular Biophysics, Max-Planck-Institute of Biochemistry, Martinsried, Germany <br> Advisor: Petra Schwille"
       year: 2015-2020
       description:
-        - blubbi
         - title: In vitro reconstitution of the MinDE system towards a more detailed and quantitative understanding of the self-organization mechanism employing
           contents: 
-            - mutational analysis in vitro and in vivo (<i>E. coli,<\i>)
-            - microfabrication and micropatterning techniques
-            - quantitative fluorescence microscopy
-            - high-speed atomic force microscopy and mass-sensitive particle tracking
+            - Model membranes
+            - Mutational analysis in vitro and in vivo (<i>E. coli</i>)
+            - Microfabrication and micropatterning techniques
+            - Quantitative fluorescence microscopy
+            - High-speed atomic force microscopy and mass-sensitive particle tracking
         - title: Discovery, characterization and application of a non-specific, active directional transport by the MinDE system
           contents: 
             - In vitro reconstitution experiments to show that MinDE molecules can transport and position functionally unrelated molecules on membranes.
             - Detailed characterization of the transport using highly controllable DNA origami as cargo molecule. In collaboration with theoretical physicists Andriy Goychuk and Erwin Frey we could pinpoint the underlying mechanism to be diffusiophoresis.
             - Patterning of DNA origami molecules on membranes by MinDE
+            - Reconstitution of MinDE dynamics and diffusiophoresis in the fission yeast (<i>S. pombe</i>)
     - title: Visiting Researcher
       institution: "Bioengineering Department, Stanford University, Stanford, USA <br> Advisors: Drew Endy, Aymelt Itzen"
       year: 2014-2015
       description:
-        - Conducted experiments to investigate the role of contact-dependent growth inhibition in surface growth of <i>E. coli </i> and to evaluate its potential for synthetic biology applications such as contact-dependent patterning.
+        - Conducted time-lapse microscopy to investigate the role of contact-dependent growth inhibition in surface growth of <i>E. coli </i> 
+        - Conducted experiments to evaluate its potential for synthetic biology applications such as growth control and contact-dependent patterning 
     
     - title: Intern in Research and Development
       institution: BYK Chemie GmbH, Wesel, Germany
@@ -90,7 +92,7 @@
       institution: "Technical University Munich, Munich Germany <br> Advisor: Fritz Simmel"
       year: 2011
       description:
-        - Member of a student team working on <a href="https://2011.igem.org/Team:TU_Munich">EXPRESS3D</a> a bacterial 3D printer based on a light excitable logical AND-gate implemented in <i>E. coli </i>.
+        - Member of a student team working on <a href="https://2011.igem.org/Team:TU_Munich">EXPRESS3D</a>, a bacterial 3D printer based on a light excitable logical AND-gate implemented in <i>E. coli </i>.
 
 
 - title: Scholarships and Awards
@@ -143,6 +145,9 @@
 - title: Talks
   type: time_table
   contents:
+    - year: 2022
+      items: 
+        - "Phase Group Weekly Seminar, Princeton University, Talk: A biomolecular condensate nucleates polymerization of the tubulin homolog FtsZ to spatiotemporally regulate bacterial cell division"
     - year: 2021
       items: 
         - "GBM Awards Event, Virtual, Award Talk: Molecular transport by a biological reaction-diffusion system"
