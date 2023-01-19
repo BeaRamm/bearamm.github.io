@@ -67,8 +67,8 @@
       institution: "Bioengineering Department, Stanford University, Stanford, USA <br> Advisors: Drew Endy, Aymelt Itzen"
       year: 2014-2015
       description:
-        - Conducted time-lapse microscopy to investigate the role of contact-dependent growth inhibition in surface growth of <i>E. coli </i> 
-        - Conducted experiments to evaluate its potential for synthetic biology applications such as growth control and contact-dependent patterning 
+        - Conducted time-lapse microscopy to investigate the role of contact-dependent growth inhibition (CDI) in surface growth of <i>E. coli </i> 
+        - Conducted experiments to evaluate potential of CDI for synthetic biology applications such as growth control and contact-dependent patterning 
     
     - title: Intern in Research and Development
       institution: BYK Chemie GmbH, Wesel, Germany
@@ -101,7 +101,7 @@
     - year: 2021
       items: 
         - Otto Hahn Medal awarded by the Max Planck Society
-        - PhD award (GBM Promotionspreis) awarded by the German Society for Biochemistry and Molecular Biology (GBM)
+        - GBM Promotionspreis (PhD award) awarded by the German Society for Biochemistry and Molecular Biology (GBM)
         - Center for NanoScience (CeNS) LMU publication award in the category “Best interdisciplinary publication” for Ramm & Goychuk et al., 2021
     - year: since 2020
       items: 
@@ -131,23 +131,23 @@
   contents:
     - year: 2022
       items:
-      - "Lecture “Short introduction to Biology” and instructor for an optics lab at the Physics of Life Summer School, Princeton University"
+      - "Lecture “Short introduction to Biology” and instructor of an optics lab at the Physics of Life Summer School, Princeton University"
     - year: 2017/2018
       items:
       - "Instructor for “Biochemistry 2”, a practical course for Chemistry bachelor students, Ludwig-Maximilians-Universität München"
     - year: 2015-2020
       items: 
-      - Mentoring of four students for their Master's Thesis/mandatory internships
+      - "Mentoring of four students for their Master's Thesis/mandatory internships"
     - year: 2012
       items: 
-      - "Teaching Assistant, Exercise to the lecture Physical Chemistry 2: Molecular Spectroscopy, Technical University of Munich"
+      - "Teaching Assistant, Physical Chemistry 2: Molecular Spectroscopy, Technical University of Munich"
 
 - title: Talks
   type: time_table
   contents:
     - year: 2022
       items: 
-        - "Phase Group Weekly Seminar, Princeton University, Talk: A biomolecular condensate nucleates polymerization of the tubulin homolog FtsZ to spatiotemporally regulate bacterial cell division"
+        - "Phase Group Biweekly Seminar and Prokaryotes Lunch, Princeton University, Talk: A biomolecular condensate nucleates polymerization of the tubulin homolog FtsZ to spatiotemporally regulate bacterial cell division"
     - year: 2021
       items: 
         - "GBM Awards Event, Virtual, Award Talk: Molecular transport by a biological reaction-diffusion system"
@@ -178,14 +178,14 @@
     - year: 2018
       items:
         - "GRC Bacterial Cell Surfaces, Mount Snow, VT, USA, Poster: The MinDE system is a generic spatial cue for membrane protein distribution in vitro"
-        - "EMBO | EMBL Symposium: Tissue Self-Organisation: Challenging the Systems: Orchestrating the ring cycle, Heidelberg, Germany, Poster: The MinDE system is a generic spatial cue for membrane protein distribution in vitro"
+        - "EMBO | EMBL Symposium Tissue Self-Organisation: Challenging the Systems, Heidelberg, Germany, Poster: The MinDE system is a generic spatial cue for membrane protein distribution in vitro"
         - "DFG-funded TRR174 conference “Spatiotemporal Organization of Bacterial Cells”, Marburg, Germany, Session Chair and Poster: The MinDE system is a generic spatial cue for membrane protein distribution in vitro"
     - year: 2017
       items:
         - "19th IUPAB congress and 11th EBSA congress, Edinburgh, UK, Poster: HS-AFM imaging of the MinDE protein oscillator"
     - year: 2016
       items:
-        - "EMBO Workshop Bacterial Cell Division, Czech Republic, Poster: In vitro reconstitution of nucleoid-guided cargo positioning"   
+        - "EMBO Workshop Bacterial Cell Division: Orchestrating the ring cycle, Czech Republic, Poster: In vitro reconstitution of nucleoid-guided cargo positioning"   
         - "The 51st Winter Seminar, Klosters, Switzerland, Poster: In vitro reconstitution of the E. coli Min system in 3D confined environments" 
 
 #- title: Academic Interests
