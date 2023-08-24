@@ -129,6 +129,9 @@
 - title: Teaching and mentoring
   type: time_table
   contents:
+    - year: 2023
+      items:
+      - Mentor of the iGEM team <a href="https://2023.igem.wiki/princeton/home">Princeton University 2023</a>"
     - year: 2022
       items:
       - "Lecture “Short introduction to Biology” and instructor of an optics lab at the Physics of Life Summer School, Princeton University"
@@ -145,6 +148,9 @@
 - title: Talks
   type: time_table
   contents:
+   - year: 2023
+      items: 
+        - "GRC Synthetic Biology, Newry, ME, USA, Selected Talk: Shedding light on pattern formation across scales with synthetic approaches"
     - year: 2022
       items: 
         - "Phase Group Biweekly Seminar and Prokaryotes Lunch, Princeton University, Talk: A biomolecular condensate nucleates polymerization of the tubulin homolog FtsZ to spatiotemporally regulate bacterial cell division"
