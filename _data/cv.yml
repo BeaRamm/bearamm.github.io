@@ -131,7 +131,7 @@
   contents:
     - year: 2023
       items:
-      - Mentor of the iGEM team <a href="https://2023.igem.wiki/princeton/home">Princeton University 2023</a>"
+      - Mentor of the iGEM team <a href="https://2023.igem.wiki/princeton/home">Princeton University 2023</a>
     - year: 2022
       items:
       - "Lecture “Short introduction to Biology” and instructor of an optics lab at the Physics of Life Summer School, Princeton University"
@@ -148,8 +148,8 @@
 - title: Talks
   type: time_table
   contents:
-   - year: 2023
-      items: 
+    - year: 2023
+      items:
         - "GRC Synthetic Biology, Newry, ME, USA, Selected Talk: Shedding light on pattern formation across scales with synthetic approaches"
     - year: 2022
       items: 
